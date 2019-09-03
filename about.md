@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graduate student in Graduate School of Engineering, Meiji University.
+Belong to [Yoji Kuroda’s Lab(AMSL)](https://amslab.tech/)
 
-### More Information
+## Interest
+- Robotics
+- Reinforcement Learning
+- Generative Model
 
-A place to include any other types of information that you'd like to include about yourself.
+## Publications
+
+## Talks
 
 ### Contact me
-
 [arijun0307@gmail.com](arijun0307@gmail.com)
