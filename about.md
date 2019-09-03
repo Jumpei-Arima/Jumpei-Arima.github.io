@@ -10,7 +10,6 @@ Belong to [Yoji Kuroda’s Lab(AMSL)](https://amslab.tech/)
 ## Interest
 - Robotics
 - Reinforcement Learning
-- Generative Model
 
 ## Publications
 
