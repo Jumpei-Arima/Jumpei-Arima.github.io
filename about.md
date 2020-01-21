@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: 
+permalink: /about/
 ---
 
 Graduate student in Graduate School of Engineering, Meiji University.
